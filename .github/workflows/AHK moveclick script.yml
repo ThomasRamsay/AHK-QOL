@@ -1,0 +1,4 @@
+
+    runs-on: AHK 1.1+
+    
+    Code: /::sendinput {ctrl down}{click}{ctrl up}
